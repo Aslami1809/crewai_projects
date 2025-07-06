@@ -2,7 +2,7 @@ from os import environ
 from crewai import Agent, LLM
 from tools.stock_research_tool import get_stock_price
 
-environ['GROQ_API_KEY'] = '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'
+environ['GROQ_API_KEY'] = 'YOUR_API_KEY'
 
 llm = LLM(
     model="deepseek-r1-distill-llama-70b",
