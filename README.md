@@ -1,5 +1,5 @@
-# crewai-stock-trader-agents
+THIS IS A CREEWAI FRAMEWORK
 
-Create a .env file. Refer env_template.txt to check the env variables needed.
+  STOCK_ANALYSER_MULTI AGENT TEAM
 
-YouTube video Tutorial: 
+  USE YOUR GROQ API KEY AND SUPPORTABLE MODEL
